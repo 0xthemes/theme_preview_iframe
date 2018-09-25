@@ -1,2 +1,2 @@
-# theme_preview_iframe
-This script loads template previews in iframe.
+# This script loads template previews in iframe
+This is theme preview iframe example.
